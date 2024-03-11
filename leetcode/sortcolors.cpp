@@ -22,6 +22,7 @@
 //      for(int i=zero+one;i<=zero+one+two-1;i++){nums[i]=2;}
 //     }
 // };
+// 2 Minute
 
 //SOLUTION 3 TWO POINTERS APPROACH
 // class Solution {
